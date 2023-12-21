@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;  
+}
+body{ 
+background: whitesmoke;
+}
+.facebook{
+    position: absolute;
+    margin-left: 10%;
+    margin-top: 22%;
+    font-family: 'Roboto', sans-serif;
+    
+}
+h1{
+    font-family: 'Libre Baskerville', serif;
+    color: #2C83F2;
+    font-size: 60px;
+
+}
+.facebook p{
+    font-size: 30px;
+}
+
+.box{
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 60%;
+    height: 340px;
+    width: 380px;
+    background-color:white;
+    border-radius: 2%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;;
+}
+.in input{
+    padding: 10px;
+    border-radius: 5px;
+    height: 30px;
+    width: 315px;
+    margin: 5px;
+    margin-top: 10px;
+    margin-left: 21px;
+    background: white;
+    box-shadow: cornsilk;
+    border-color: aliceblue;
+}
+.link1 button {
+    height: 44px;
+    width: 340px;
+    background-color: #2C83f2;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin: 20px;
+    margin-bottom: 13px;
+    text-align: center;
+    border-color: #2C83F2;
+}
+.link3 button {
+    position: absolute;
+    padding: 10px;
+    margin-left: 95px;
+    margin-top: 40px;
+    border-radius: 5px;
+    background-color: #36A420;
+    height: 42px;
+    width:190px;
+    border: #36A420;
+}
+.link2 a{
+    margin-top: 0%;
+    margin-left: 34%;
+    text-decoration: none; 
+    color: #2C83F2;
+    font-size: 17px;
+
+}
+.link1 a{
+    color: white;
+    text-decoration: none;
+    font-size: 22px;
+}
+.link3 a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    font-size: 17px;
+}
+.last{
+    position: absolute;
+    margin-top: 44%;
+    margin-left: 63%;
+}
+::placeholder{
+    font-size: 20px;
+}
